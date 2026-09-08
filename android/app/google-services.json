@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593164910252",
+    "project_id": "amplopku",
+    "storage_bucket": "amplopku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593164910252:android:531ed8e16e55daeab22909",
+        "android_client_info": {
+          "package_name": "com.example.amplopku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA543q2e0FmA7P7C0COvCs9BD0TUBKtj-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
